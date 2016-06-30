@@ -1,5 +1,5 @@
 # Docker Fake SMTP
 
 ```shell
-& ./test.sh
+$ ./test.sh
 ```
